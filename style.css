@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.calculator {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    width: 50px;
+    height: 50px;
+    margin: 4px;
+    box-shadow: 2px 2px 2px black;
+    cursor: pointer;
+}
+
+input {
+    height: 50px;
+    width: 243px;
+    margin: 20px 0;
+    font-size: 20px;
+}
+
+#equal {
+    width: 112px;
+}
+
+p {
+    border: 2px solid;
+    box-shadow: 2px 2px 2px grey;
+    width: 40%;
+    cursor: pointer;
+}
