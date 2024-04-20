@@ -10,8 +10,9 @@ It is a simple calculator having all the basic operators like addition, subtract
 
 # Instructions
 
-  Fork this repository
-  Clone the forked repository
-  Add your contributions (code or documentation)
-  Commit and push
-  Wait for pull request to be merged
+- Fork this repository
+- Clone the forked repository
+- Add your contributions (code or documentation)
+- Commit and push
+- Wait for pull request to be merged
+
